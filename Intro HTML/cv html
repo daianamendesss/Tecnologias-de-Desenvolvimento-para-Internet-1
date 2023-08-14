@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo HTML Estruturado</title>
+</head>
+<body>
+    <header>
+        <!-- Comentario -->
+        <h1>Cabeçalho Página</h1>
+        <nav>
+            <!--Menu de navegacao -->
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h1>Título de seção 1</h1>
+        </section>
+        <section>
+            <h1>Título de seção 2</h1>
+        </section>
+        <section>
+            <h1>Título de seção 3</h1>
+        </section>
+        <aside>
+            <h3>Barra Lateral</h3>
+        </aside>
+
+    </main>
+    
+    <footer>
+        <p> Copyrighy</p>
+    </footer>
+</body>
+</html>
